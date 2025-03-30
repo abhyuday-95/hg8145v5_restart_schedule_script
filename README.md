@@ -1,4 +1,4 @@
-# hg8145v5_restart_schedule_script
+# HG8145V5 Restart Schedule Script
 
 A scheduled restart script for Huawei EchoLife HG8145V5 EPON Terminal that automatically restarts the router at 3 AM everyday to maintain optimal performance.
 
